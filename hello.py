@@ -4,4 +4,5 @@ def hello(name):
         print("Hi " + name )
     else:
         print("Hi")
+print("Hi,Ambi")
 hello(name)
